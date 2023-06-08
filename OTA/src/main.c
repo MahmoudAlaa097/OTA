@@ -67,7 +67,7 @@ void main(void)
 	HESP_voidInit();
 
 	/* Connect to WiFi */
-	HESP_voidConnectToWiFi((u8*)"7oDa",(u8*)"30111997");
+	HESP_voidConnectToWiFi((u8*)"WIFI",(u8*)"PASSWORD");
 
 	while(1)
 	{
